@@ -1,8 +1,4 @@
-/**
- * The client!
- *
- * @author Jeroen Van den Bossche <vanbosse.jeroen@gmail.com>
- */
+
 
 window.onload = function()
 {
